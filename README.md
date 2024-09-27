@@ -11,6 +11,10 @@ Ai learning notes
 
 [Image Search](https://www.edenai.co/post/how-to-implement-image-similarity-search-with-python)
 
+[Build a chat based order system](https://blog.stackademic.com/mastering-retrieval-augmented-generation-rag-architecture-unleash-the-power-of-large-language-a1d2be5f348c)
+
+[RAG from Scratch by LangChain](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
+
 ## Image Search based o similarity
 
 [PyTorch based Image search](https://www.kaggle.com/code/alincijov/image-similarity-search-in-pytorch)
