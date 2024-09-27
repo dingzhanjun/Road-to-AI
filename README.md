@@ -14,6 +14,7 @@ Ai learning notes
 [Build a chat based order system](https://blog.stackademic.com/mastering-retrieval-augmented-generation-rag-architecture-unleash-the-power-of-large-language-a1d2be5f348c)
 
 [RAG from Scratch by LangChain](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
+[RAG Framework FAQ](https://www.youtube.com/playlist?list=PLnH2pfPCPZsJ1qBbf0Fb7onButMjqYa-Z)
 
 ## Image Search based o similarity
 
