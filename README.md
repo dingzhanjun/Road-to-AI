@@ -24,6 +24,11 @@ Ai learning notes
 
 [Designing E-Shop Customer Support Using RAG](https://mehmetozkaya.medium.com/designing-e-shop-customer-support-using-rag-2f2ba8a760d6)
 
+[Building an End-to-End Gen AI App with DeepSeek-R1, Langchain, and Ollama](https://medium.com/@pratikabnave97/building-an-end-to-end-gen-ai-app-with-deepseek-r1-langchain-and-ollama-6c6ff2e5c627)
+
+[How to Build a Local RAG Using DeepSeek-R1, LangChain, and Ollama](https://blog.gopenai.com/how-to-build-a-privacy-first-rag-using-deepseek-r1-langchain-and-ollama-c5133a8514dd)
+
+[Langchain (Upgraded) + DeepSeek-R1 + RAG Just Revolutionized AI Forever](https://pub.towardsai.net/langchain-upgraded-deepseek-r1-rag-just-revolutionized-ai-forever-27dcbb0e3493)
 
 ## Image Search based o similarity
 
