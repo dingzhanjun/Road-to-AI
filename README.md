@@ -11,11 +11,12 @@ Ai learning notes
 
 [Image Search](https://www.edenai.co/post/how-to-implement-image-similarity-search-with-python)
 
-[Build a chat based order system](https://blog.stackademic.com/mastering-retrieval-augmented-generation-rag-architecture-unleash-the-power-of-large-language-a1d2be5f348c)
-
 [RAG from Scratch by LangChain](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
 
+[Microsoft Retrieval Augmented Generation (RAG) and Vector Databases](https://github.com/microsoft/generative-ai-for-beginners/blob/main/15-rag-and-vector-databases/README.md?WT.mc_id=academic-105485-koreyst)
+
 [RAG Framework FAQ](https://www.youtube.com/playlist?list=PLnH2pfPCPZsJ1qBbf0Fb7onButMjqYa-Z)
+
 [RAG for retails](https://hatchworks.com/blog/gen-ai/rag-for-retail/)
 
 [Yet another RAG system](https://www.reddit.com/r/LocalLLaMA/comments/16cbimi/yet_another_rag_system_implementation_details_and/)
@@ -29,6 +30,21 @@ Ai learning notes
 [How to Build a Local RAG Using DeepSeek-R1, LangChain, and Ollama](https://blog.gopenai.com/how-to-build-a-privacy-first-rag-using-deepseek-r1-langchain-and-ollama-c5133a8514dd)
 
 [Langchain (Upgraded) + DeepSeek-R1 + RAG Just Revolutionized AI Forever](https://pub.towardsai.net/langchain-upgraded-deepseek-r1-rag-just-revolutionized-ai-forever-27dcbb0e3493)
+
+### RAG for restaurant
+[Build a chat based order system](https://blog.stackademic.com/mastering-retrieval-augmented-generation-rag-architecture-unleash-the-power-of-large-language-a1d2be5f348c)
+
+[LLM for Food Ordering (Proof-of-concept)](https://github.com/lucastononro/llm-food-delivery)
+
+[Duke Brodhead Center Food Guide - RAG Enhanced](https://github.com/rootsec1/RAG_from_scratch)
+
+[Cosmic-Food-RAG-app](https://github.com/Azure-Samples/Cosmic-Food-RAG-app)
+
+[Restaurant drive-thru orders](https://github.com/alexisdpc/restaurant-drive-thru-AI)
+
+[RAG based Restaurant Drive-Thru Order Processing](https://github.com/akhilchibber/RAG-Drive-Thru)
+
+[End-to-end RAG based Restaurant recommendation system with LLM, Elasticsearch, LlamaIndex](https://medium.com/@sadhansd02/end-to-end-rag-based-restaurant-recommendation-system-with-llm-elasticsearch-llamaindex-2a73ad1d3aed)
 
 ## Image Search based o similarity
 
