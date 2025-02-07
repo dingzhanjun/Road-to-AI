@@ -31,6 +31,7 @@ Ai learning notes
 
 [Langchain (Upgraded) + DeepSeek-R1 + RAG Just Revolutionized AI Forever](https://pub.towardsai.net/langchain-upgraded-deepseek-r1-rag-just-revolutionized-ai-forever-27dcbb0e3493)
 
+[RAG text search based on local deepseek](https://blog.csdn.net/weixin_62428212/article/details/145399979)
 ### RAG for restaurant
 [Build a chat based order system](https://blog.stackademic.com/mastering-retrieval-augmented-generation-rag-architecture-unleash-the-power-of-large-language-a1d2be5f348c)
 
