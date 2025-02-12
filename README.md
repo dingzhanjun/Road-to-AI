@@ -47,6 +47,9 @@ Ai learning notes
 
 [End-to-end RAG based Restaurant recommendation system with LLM, Elasticsearch, LlamaIndex](https://medium.com/@sadhansd02/end-to-end-rag-based-restaurant-recommendation-system-with-llm-elasticsearch-llamaindex-2a73ad1d3aed)
 
+## AI Assistant
+[OpenAI Assistants API: How to create your own AI assistant with or without code](https://www.gettingstarted.ai/step-by-step-tutorial-how-to-create-your-own-openai-ai-assistant-with-or-without-code/)
+
 ## Image Search based o similarity
 
 [PyTorch based Image search](https://www.kaggle.com/code/alincijov/image-similarity-search-in-pytorch)
