@@ -4,7 +4,15 @@ Ai learning notes
 ## 1. AIGC
 
 ### Picture Generation
+
 [用Stable Diffusion做个性化头像丨使用ControlNet插件和IP-Adapter模型](https://blog.csdn.net/A2421417624/article/details/13773643)
+
+[How to choose UI for SD](https://medium.com/@wxbxtxr/how-to-choose-a-webui-for-stable-diffusion-fbc6236e124a)
+
+[Stable Diffusion学习指南【ControlNet上篇】- 功能介绍、安装和使用](https://blog.csdn.net/A2421417624/article/details/145612168)
+
+[Stable Diffusion学习指南【ControlNet下篇】- 超全面控图类型&模型拆解](https://blog.csdn.net/2401_85116933/article/details/140037643?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogOpenSearchComplete%7ERate-2-140037643-blog-145612168.235%5Ev43%5Epc_blog_bottom_relevance_base4&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogOpenSearchComplete%7ERate-2-140037643-blog-145612168.235%5Ev43%5Epc_blog_bottom_relevance_base4&utm_relevant_index=2)
+
 
 
 ## 2. RAG 
