@@ -1,7 +1,15 @@
 # Road-to-AI
 Ai learning notes
 
-## RAG related
+## 1. AIGC
+
+### Picture Generation
+[用Stable Diffusion做个性化头像丨使用ControlNet插件和IP-Adapter模型](https://blog.csdn.net/A2421417624/article/details/13773643)
+
+
+## 2. RAG 
+
+### RAG Basic
 
 [Vector Database](https://qdrant.tech/articles/what-is-a-vector-database/)
 
