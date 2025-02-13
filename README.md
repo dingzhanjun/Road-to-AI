@@ -32,6 +32,7 @@ Ai learning notes
 [Langchain (Upgraded) + DeepSeek-R1 + RAG Just Revolutionized AI Forever](https://pub.towardsai.net/langchain-upgraded-deepseek-r1-rag-just-revolutionized-ai-forever-27dcbb0e3493)
 
 [RAG text search based on local deepseek](https://blog.csdn.net/weixin_62428212/article/details/145399979)
+
 ### RAG for restaurant
 [Build a chat based order system](https://blog.stackademic.com/mastering-retrieval-augmented-generation-rag-architecture-unleash-the-power-of-large-language-a1d2be5f348c)
 
@@ -46,6 +47,9 @@ Ai learning notes
 [RAG based Restaurant Drive-Thru Order Processing](https://github.com/akhilchibber/RAG-Drive-Thru)
 
 [End-to-end RAG based Restaurant recommendation system with LLM, Elasticsearch, LlamaIndex](https://medium.com/@sadhansd02/end-to-end-rag-based-restaurant-recommendation-system-with-llm-elasticsearch-llamaindex-2a73ad1d3aed)
+
+### Data Chuncking
+[How to Chunk Text in JavaScript for Your RAG Application](https://www.datastax.com/blog/how-to-chunk-text-in-javascript-for-rag-applications)
 
 ## AI Assistant
 [OpenAI Assistants API: How to create your own AI assistant with or without code](https://www.gettingstarted.ai/step-by-step-tutorial-how-to-create-your-own-openai-ai-assistant-with-or-without-code/)
