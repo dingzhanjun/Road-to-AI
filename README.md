@@ -82,9 +82,11 @@ Ai learning notes
 [Image search/recommendation using Resnet18 and pyTorch](https://towardsdatascience.com/recommending-similar-images-using-pytorch-da019282770c)
 
 [FAISS](https://github.com/facebookresearch/faiss)
+
 [Effortlessly Recommending Similar Images](https://towardsdatascience.com/effortlessly-recommending-similar-images-b65aff6aabfb)
 
 ## AI Agent
 
 [Introduction to LLM Agents/](https://developer.nvidia.com/blog/introduction-to-llm-agents/)
+
 [Building Your First LLM Agent](https://developer.nvidia.com/blog/building-your-first-llm-agent-application/)
