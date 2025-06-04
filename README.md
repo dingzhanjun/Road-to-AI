@@ -1,6 +1,9 @@
 # Road-to-AI
 Ai learning notes
 
+## 0. LLM
+[A Comprehensive Overview of Large Language Models](https://www.wisecube.ai/blog/a-comprehensive-overview-of-large-language-models/)
+
 ## 1. AIGC
 
 ### Picture Generation
@@ -80,3 +83,8 @@ Ai learning notes
 
 [FAISS](https://github.com/facebookresearch/faiss)
 [Effortlessly Recommending Similar Images](https://towardsdatascience.com/effortlessly-recommending-similar-images-b65aff6aabfb)
+
+## AI Agent
+
+[Introduction to LLM Agents/](https://developer.nvidia.com/blog/introduction-to-llm-agents/)
+[Building Your First LLM Agent](https://developer.nvidia.com/blog/building-your-first-llm-agent-application/)
