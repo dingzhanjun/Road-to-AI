@@ -90,3 +90,6 @@ Ai learning notes
 [Introduction to LLM Agents/](https://developer.nvidia.com/blog/introduction-to-llm-agents/)
 
 [Building Your First LLM Agent](https://developer.nvidia.com/blog/building-your-first-llm-agent-application/)
+
+[Agent Course from Hugging Face](https://huggingface.co/learn/agents-course/en/unit1/introduction)
+
