@@ -97,6 +97,19 @@ Ai learning notes
 ## Personal AI Voice Assistant
 
 [chatTTS](https://github.com/2noise/ChatTTS)
+
 [JARVIS][https://blog.csdn.net/2401_87189860/article/details/143156502)
+
 [搭建语音对话机器人](https://zhuanlan.zhihu.com/p/703508774)
+
 [Open source telephone system alternative to Twillo](https://fonoster.com)
+
+## Voice AI platform
+[Synthflow](Synthflow.ai)
+
+[Retell](retell.ai)
+
+[Dasha](dasha.ai)
+
+[PlayAI](play.ai)
+
