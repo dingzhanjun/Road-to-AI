@@ -118,3 +118,5 @@ Ai learning notes
 
 [Callbotics](callbotics.ai)
 
+[Bolna](bolna.ai)
+
